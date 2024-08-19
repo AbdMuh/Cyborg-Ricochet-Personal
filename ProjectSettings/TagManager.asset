@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - bouncy
+  - gravity_trigger
+  - ground
+  - enemy
+  - test_enemy
+  - Bullet
+  - Audio
+  - MovingPlatform
+  - Laser
+  - Blade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Non-Player
+  - 'Enemies '
+  - Platform
+  - Player
+  - 'NoCollisionEnemies '
+  - Floor
+  - Obstacle
+  - VFX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
